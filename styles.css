@@ -84,7 +84,7 @@ h1 {
 
 .split.left {
   left: 0;
-  background: url("/ps5.jpg");
+  background: url("ps5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
